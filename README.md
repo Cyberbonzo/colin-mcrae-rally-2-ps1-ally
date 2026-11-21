@@ -16,3 +16,7 @@ Com o jogo fechado, guarde a instalação anterior e os cartões antes de gerar 
 ## Replays
 
 F12 inicia ou encerra a gravação. Em F7, use Tab para alternar entre save states e replays. As gravações armazenam os comandos do jogador. Gravar ou reproduzir usa o interpretador e pode reduzir o desempenho.
+
+## Localização no microSD
+
+Na Steam do Ally, o atalho **Colin McRae Rally 2.0 (PS1 Recomp)** fica em **[Unifideck] MICROSD**. A instalação ocupa a pasta `Games/ColinMcRaeRally2` do cartão BazziteSD. O caminho original `~/Games/ColinMcRaeRally2` aponta para essa pasta. Os cartões de memória ficam em `saves/card1.mcd` e `saves/card2.mcd`.
